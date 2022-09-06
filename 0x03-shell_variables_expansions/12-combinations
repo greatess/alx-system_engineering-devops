@@ -1,5 +1,0 @@
-#!bin/bash
-echo -en {a..z}{a..z} | tr ' ' '\n' |gre -v "oo"
-~
-~
-~
