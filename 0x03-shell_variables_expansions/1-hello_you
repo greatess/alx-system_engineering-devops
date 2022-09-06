@@ -1,2 +1,2 @@
 #!/bin/bash
-Head -n 3 iacta | tail -n 1
+echo "hello $USER"
